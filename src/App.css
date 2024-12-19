@@ -1,0 +1,31 @@
+.title{
+  margin: 10px;
+  margin-bottom: 25px;
+  justify-items: center;
+}
+
+.add-taskRow{
+  margin: 15px;
+  margin-bottom: 30px;
+}
+.add-taskRow input{
+  height: 40px;
+  border-radius: 10px;
+}
+.add-taskRow-input{
+  width: 450px;
+}
+.listcontainer{
+  border: 0.5px solid silver;
+  padding-top: 10px;
+}
+.list{
+  margin-bottom: 10px;
+}
+.list button{
+  min-width: 100px;
+}
+
+.add-taskRow button{
+  min-width: 100px;
+}
