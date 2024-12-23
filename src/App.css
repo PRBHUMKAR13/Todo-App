@@ -16,7 +16,7 @@
   width: 450px;
 }
 .listcontainer{
-  border: 0.5px solid silver;
+  border: 0.5px solid rgb(15, 1, 1);
   padding-top: 10px;
 }
 .list{
@@ -24,6 +24,7 @@
 }
 .list button{
   min-width: 100px;
+  
 }
 
 .add-taskRow button{

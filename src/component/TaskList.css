@@ -1,0 +1,56 @@
+/* TaskList.css */
+
+.card {
+    width: 80%;
+    margin: 10px auto;
+    border-radius: 15px;
+    background: linear-gradient(145deg, #fff, #f0f8ff); /* Soft card background */
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2);
+    padding: 20px;
+    transition: transform 0.3s ease;
+}
+  .card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 6px 15px rgba(0, 0, 0, 0.2); /* Lift effect on hover */
+  }
+  
+  .card-body {
+    padding: 20px;
+    text-align: center;
+  }
+  
+  .card-footer {
+    background: #f0f4f8; /* Light background for footer */
+    font-size: 1rem;
+    color: #5f6368; /* Muted dark gray color */
+    padding: 10px;
+    font-weight: 500;
+  }
+  
+  .card-footer h3 {
+    font-size: 1.1rem;
+    margin: 0;
+  }
+  
+  .card-text {
+    font-family: 'Poppins', sans-serif; /* Modern font */
+    font-size: 1.1rem;
+    margin: 15px 0;
+    color: #333; /* Dark gray text for better contrast */
+  }
+  
+  .btn-outline-danger {
+    font-size: 1rem;
+    font-weight: 600;
+    border-radius: 25px;
+    border: 2px solid #a00000; /* Coral color border */
+    color: #b71607; /* Coral color text */
+    transition: background-color 0.3s ease, color 0.3s ease;
+    padding: 8px 20px;
+  }
+  
+  .btn-outline-danger:hover {
+    background-color: #ae1305; /* Coral background */
+    color: white; /* White text on hover */
+  }
+  

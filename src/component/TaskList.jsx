@@ -1,5 +1,5 @@
 import React from 'react'
-
+import './TaskList.css'
 const TaskList = ({ todoTask, todoDate, deleteItem }) => {
     return (
     <div className="card w-50 my-4">

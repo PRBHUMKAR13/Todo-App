@@ -1,0 +1,24 @@
+
+.center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    margin-top: 2rem;
+  }
+  
+  .title {
+    font-family: 'Inter', sans-serif; 
+    font-size: 3.5rem;
+    font-weight:bolder ;
+    color: #ffffff; 
+    margin-top: 2rem;
+  }
+  
+  .title h1 {
+    border-bottom: 3px solid #4CAF50; 
+    display: inline-block;
+    padding-bottom: 0.3rem;
+    letter-spacing: 1px;
+  }
+  

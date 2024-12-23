@@ -3,6 +3,7 @@ import AppTitle from './AppTitle'
 import AddTask from './AddTask'
 import TaskList from './TaskList'
 import Messaage from './Messaage'
+import './Todo.css'
 
 const Todo = () => {
    
